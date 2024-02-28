@@ -4,6 +4,7 @@ A web-based shopping application developed using React and Redux, offering a sea
 
 ## Table of Contents
 - [Introduction](#introduction)
+- [Live Demo](#liveDemo)
 - [Features](#features)
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
@@ -14,6 +15,9 @@ A web-based shopping application developed using React and Redux, offering a sea
 ## Introduction
 
 The Shopping App with Redux is a feature-rich online shopping application developed using React and Redux. It provides users with the ability to browse products, add them to their cart, and manage their shopping cart effortlessly.
+
+## Live Demo
+   here is the live demo link of my project :- https://shopping-test-project-f3a7e.web.app/
 
 ## Features
 
